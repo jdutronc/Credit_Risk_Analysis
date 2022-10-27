@@ -21,9 +21,9 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
     <th>Classification Report</th>
   </tr>
   <tr>
-    <td> <img src='Resources/AccScore.png' height='200'>
-    <td> <img src='Resources/ConfMatrix.png' height='200'>
-    <td> <img src='Resources/ClassReport.png height='200'>
+    <td> <img src='Resources/Oversampling_AccScore.png' height='200'>
+    <td> <img src='Resources/Oversampling_ConfMatrix.png' height='200'>
+    <td> <img src='Resources/Oversampling_ClassReport.png height='200'>
   </tr>
 </table>
   
