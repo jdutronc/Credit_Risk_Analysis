@@ -48,8 +48,29 @@ Looking at the individual variable p-values in the summary output (left here), e
 </table>
 <br> 
 
+Looking at the individual variable p-values in the summary output (left here), each Pr(>|t|) value represents the probability that each coefficient contributes a random amount of variance to the linear model. According to our results, vehicle length and ground clearance (as well as intercept) are statistically unlikely (<=0.05) to provide random amounts of variance to the linear model. In other words the vehicle length and ground clearance have a significant impact on mpg efficiency.
+
+<br clear="left"/>
+
 ### Undersample the data with the ClusterCentroids algorithm
 
+<table align="left">
+  <tr height=50px>
+    <th>Accuracy Score</th>
+    <th>Confusion Matrix</th>
+    <th>Classification Report</th>
+  </tr>
+  <tr>
+    <td> <img src='Resources/Undersampling_AccScore.png'>
+    <td> <img src='Resources/Undersampling_ConfMatrix.png'>
+    <td> <img src='Resources/Undersampling_ClassReport.png'>
+  </tr>
+</table>
+<br> 
+
+Looking at the individual variable p-values in the summary output (left here), each Pr(>|t|) value represents the probability that each coefficient contributes a random amount of variance to the linear model. According to our results, vehicle length and ground clearance (as well as intercept) are statistically unlikely (<=0.05) to provide random amounts of variance to the linear model. In other words the vehicle length and ground clearance have a significant impact on mpg efficiency.
+
+<br clear="left"/>
 
 ### Over- and undersampling with the SMOTEENN algorithm
 
