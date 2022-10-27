@@ -14,9 +14,20 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 
 ### Oversample the data with RandomOverSampler
 
-| Accuracy Score | Confusion Matrix | Classification Report |
-| <img src='Resources/AccScore.png' height='200'> | <img src='Resources/ConfMatrix.png' height='200'> | <img src='Resources/ClassReport.png height='200'> |
-
+<table align="left">
+  <tr height=50px>
+    <th>Accuracy Score</th>
+    <th>Confusion Matrix</th>
+    <th>Classification Report</th>
+  </tr>
+  <tr>
+    <td> <img src='Resources/AccScore.png' height='200'>
+    <td> <img src='Resources/ConfMatrix.png' height='200'>
+    <td> <img src='Resources/ClassReport.png height='200'>
+  </tr>
+</table>
+  
+  
 Looking at the individual variable p-values in the summary output (left here), each Pr(>|t|) value represents the probability that each coefficient contributes a random amount of variance to the linear model. According to our results, vehicle length and ground clearance (as well as intercept) are statistically unlikely (<=0.05) to provide random amounts of variance to the linear model. In other words the vehicle length and ground clearance have a significant impact on mpg efficiency.
 
 <br clear="left"/>
