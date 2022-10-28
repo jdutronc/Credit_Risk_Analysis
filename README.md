@@ -29,7 +29,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 <br> 
   
 - balanced accuracy score is 64%
-- high_risk precision is about 1% only with 60% sensitivity
+- high-risk precision is about 1% only with 60% sensitivity
 - F1 is very low at 2% only
 <br clear="left"/>
 
@@ -50,7 +50,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 <br> 
 
 - balanced accuracy score is 64%
-- high_risk precision is about 1% only with 60% sensitivity
+- high-risk precision is about 1% only with 60% sensitivity
 - F1 is very low at 2% only
 <br clear="left"/>
 
@@ -71,7 +71,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 <br> 
 
 - balanced accuracy score is 64%
-- high_risk precision is about 1% only with 60% sensitivity
+- high-risk precision is about 1% only with 60% sensitivity
 - F1 is very low at 1% only
 <br clear="left"/>
 
@@ -92,7 +92,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 <br> 
 
 - balanced accuracy score is 52%
-- high_risk precision is about 1% only with 70% sensitivity
+- high-risk precision is about 1% only with 70% sensitivity
 - F1 is very low at 2% only
 <br clear="left"/>
 
@@ -113,7 +113,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 <br> 
 
 - balanced accuracy score is 79%
-- high_risk precision is about 4% only with 67% sensitivity
+- high-risk precision is about 4% only with 67% sensitivity
 - F1 is higher at 7%
 <br clear="left"/>
 
@@ -134,7 +134,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 <br> 
 
 - balanced accuracy score is 93%
-- high_risk precision is about 7% only with 91% sensitivity
+- high-risk precision is about 7% only with 91% sensitivity
 - F1 is much higher at 14%
 <br clear="left"/>
 
