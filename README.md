@@ -28,7 +28,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 </table>
 <br> 
   
-- balanced accuracy score is 65%.
+- balanced accuracy score is 64%.
 - high_risk precision is about 1% only with 62% sensitivity
 - recall is very low at 2% only.
 <br clear="left"/>
@@ -49,7 +49,9 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 </table>
 <br> 
 
-Looking at the individual variable p-values in the summary output (left here), each Pr(>|t|) value represents the probability that each coefficient contributes a random amount of variance to the linear model. According to our results, vehicle length and ground clearance (as well as intercept) are statistically unlikely (<=0.05) to provide random amounts of variance to the linear model. In other words the vehicle length and ground clearance have a significant impact on mpg efficiency.
+- balanced accuracy score is 65%.
+- high_risk precision is about 1% only with 62% sensitivity
+- recall is very low at 2% only.
 <br clear="left"/>
 
 ### Undersample the data with the ClusterCentroids algorithm
@@ -68,7 +70,9 @@ Looking at the individual variable p-values in the summary output (left here), e
 </table>
 <br> 
 
-Looking at the individual variable p-values in the summary output (left here), each Pr(>|t|) value represents the probability that each coefficient contributes a random amount of variance to the linear model. According to our results, vehicle length and ground clearance (as well as intercept) are statistically unlikely (<=0.05) to provide random amounts of variance to the linear model. In other words the vehicle length and ground clearance have a significant impact on mpg efficiency.
+- balanced accuracy score is 65%.
+- high_risk precision is about 1% only with 62% sensitivity
+- recall is very low at 2% only.
 <br clear="left"/>
 
 ### Over- and undersampling with the SMOTEENN algorithm
@@ -87,7 +91,9 @@ Looking at the individual variable p-values in the summary output (left here), e
 </table>
 <br> 
 
-Looking at the individual variable p-values in the summary output (left here), each Pr(>|t|) value represents the probability that each coefficient contributes a random amount of variance to the linear model. According to our results, vehicle length and ground clearance (as well as intercept) are statistically unlikely (<=0.05) to provide random amounts of variance to the linear model. In other words the vehicle length and ground clearance have a significant impact on mpg efficiency.
+- balanced accuracy score is 65%.
+- high_risk precision is about 1% only with 62% sensitivity
+- recall is very low at 2% only.
 <br clear="left"/>
 
 ### BalancedRandomForestClassifier
@@ -106,7 +112,9 @@ Looking at the individual variable p-values in the summary output (left here), e
 </table>
 <br> 
 
-Looking at the individual variable p-values in the summary output (left here), each Pr(>|t|) value represents the probability that each coefficient contributes a random amount of variance to the linear model. According to our results, vehicle length and ground clearance (as well as intercept) are statistically unlikely (<=0.05) to provide random amounts of variance to the linear model. In other words the vehicle length and ground clearance have a significant impact on mpg efficiency.
+- balanced accuracy score is 65%.
+- high_risk precision is about 1% only with 62% sensitivity
+- recall is very low at 2% only.
 <br clear="left"/>
 
 ### EasyEnsembleClassifier
@@ -125,7 +133,9 @@ Looking at the individual variable p-values in the summary output (left here), e
 </table>
 <br> 
 
-Looking at the individual variable p-values in the summary output (left here), each Pr(>|t|) value represents the probability that each coefficient contributes a random amount of variance to the linear model. According to our results, vehicle length and ground clearance (as well as intercept) are statistically unlikely (<=0.05) to provide random amounts of variance to the linear model. In other words the vehicle length and ground clearance have a significant impact on mpg efficiency.
+- balanced accuracy score is 65%.
+- high_risk precision is about 1% only with 62% sensitivity
+- recall is very low at 2% only.
 <br clear="left"/>
 
 ## Summary
