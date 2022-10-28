@@ -28,9 +28,9 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 </table>
 <br> 
   
-- balanced accuracy score is 64%.
+- balanced accuracy score is 64%
 - high_risk precision is about 1% only with 60% sensitivity
-- F1 is very low at 2% only.
+- F1 is very low at 2% only
 <br clear="left"/>
 
 ### Oversample the data with the SMOTE algorithm
@@ -49,9 +49,9 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 </table>
 <br> 
 
-- balanced accuracy score is 64%.
+- balanced accuracy score is 64%
 - high_risk precision is about 1% only with 60% sensitivity
-- F1 is very low at 2% only.
+- F1 is very low at 2% only
 <br clear="left"/>
 
 ### Undersample the data with the ClusterCentroids algorithm
@@ -70,9 +70,9 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 </table>
 <br> 
 
-- balanced accuracy score is 64%.
+- balanced accuracy score is 64%
 - high_risk precision is about 1% only with 60% sensitivity
-- F1 is very low at 1% only.
+- F1 is very low at 1% only
 <br clear="left"/>
 
 ### Over- and undersampling with the SMOTEENN algorithm
@@ -91,9 +91,9 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 </table>
 <br> 
 
-- balanced accuracy score is 52%.
+- balanced accuracy score is 52%
 - high_risk precision is about 1% only with 70% sensitivity
-- F1 is very low at 2% only.
+- F1 is very low at 2% only
 <br clear="left"/>
 
 ### BalancedRandomForestClassifier
@@ -112,7 +112,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 </table>
 <br> 
 
-- balanced accuracy score is 79%.
+- balanced accuracy score is 79%
 - high_risk precision is about 4% only with 67% sensitivity
 - F1 is higher at 7%
 <br clear="left"/>
@@ -133,7 +133,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 </table>
 <br> 
 
-- balanced accuracy score is 93%.
+- balanced accuracy score is 93%
 - high_risk precision is about 7% only with 91% sensitivity
 - F1 is much higher at 14%
 <br clear="left"/>
