@@ -116,9 +116,9 @@ Looking at the individual variable p-values in the summary output (left here), e
     <th>Classification Report</th>
   </tr>
   <tr>
-    <td> <img src='Resources/SMOTEENN_AccScore.png'>
-    <td> <img src='Resources/SMOTEENN_ConfMatrix.png'>
-    <td> <img src='Resources/SMOTEENN_ClassReport.png'>
+    <td> <img src='Resources/EEC_AccScore.png'>
+    <td> <img src='Resources/EEC_ConfMatrix.png'>
+    <td> <img src='Resources/EEC_ClassReport.png'>
   </tr>
 </table>
 <br> 
