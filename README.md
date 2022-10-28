@@ -140,3 +140,8 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 
 ## Summary
 
+- the balanced accuracy score varies from 0 to 1, and a score closer to 1 indicates a better model. In our study the Easy Ensemble AdaBoost Classifier performed much better than other models with an accuracy score of 93%.
+- the precision is similar for all models and within an appropriate range.
+- recall score also varies from 0 to 1, with a recall closer to 1 also indicates a better model, and the Easy Ensemble AdaBoost Classifier performed much better than other models with an accuracy score of 91%.
+
+Overall the Easy Ensemble AdaBoost Classifier performed much better than other models at predicting high-risk loans and should be preferred for further credit card  analysis.
